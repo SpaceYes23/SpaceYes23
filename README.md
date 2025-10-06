@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I like making games and stuff, check out some of my works while you are at it
 <!--
 **SpaceYes23/SpaceYes23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Hi there 👋
+
 -->
